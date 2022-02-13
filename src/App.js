@@ -4,7 +4,7 @@ import Table from './components/table';
 function App() {
   
   return (
-    <div className="work_sallary">
+    <div className="work_salary">
       <main>
         <Table />
       </main>
